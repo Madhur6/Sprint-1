@@ -87,7 +87,7 @@ This project is licensed under the MIT License.
 
 If you have any questions, feel free to reach out:
 
-- **Madhur Pandey**: madhurp090@example.com
+- **Madhur Pandey**: madhurp090@gmail.com
 - **GitHub**: [Madhur](https://github.com/Madhur6)
 
 ---
