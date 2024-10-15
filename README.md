@@ -36,7 +36,7 @@ Welcome to the **Railway Reservation System**, a console-based Java application 
 
 2. Navigate to the project directory:
     ```bash
-    cd railway-reservation-system
+    cd Sprint-1
     ```
 
 3. Compile the Java files:
@@ -46,7 +46,7 @@ Welcome to the **Railway Reservation System**, a console-based Java application 
 
 4. Run the application:
     ```bash
-    java RailwayReservationSystem
+    java Sprint-1
     ```
 
 ---
