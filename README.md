@@ -41,12 +41,12 @@ Welcome to the **Railway Reservation System**, a console-based Java application 
 
 3. Compile the Java files:
     ```bash
-    javac *.java
+    javac *.java(i.e. javac IRCTC.java)
     ```
 
 4. Run the application:
     ```bash
-    java Sprint-1
+    java Sprint-1(i.e. java IRCTC)
     ```
 
 ---
