@@ -73,7 +73,7 @@ Welcome to the **Railway Reservation System**, a console-based Java application 
 
 ## 🌈 Contributing
 
-Contributions are welcome! If you have suggestions or improvements, please feel free to submit a pull request or create an issue.
+Contributions are welcome(Specially from Group 10)! If you have suggestions or improvements, please feel free to submit a pull request or create an issue.
 
 ---
 
