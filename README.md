@@ -31,7 +31,7 @@ Welcome to the **Railway Reservation System**, a console-based Java application 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Madhur6/railway-reservation-system.git
+    git clone https://github.com/Madhur6/Sprint-1.git
     ```
 
 2. Navigate to the project directory:
